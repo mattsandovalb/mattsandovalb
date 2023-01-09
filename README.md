@@ -1,8 +1,8 @@
 <kbd id="header" align="center">
-    ![Avatar](https://media.licdn.com/dms/image/C4D03AQFY8jsEsibpsA/profile-displayphoto-shrink_200_200/0/1663050269654?e=1678924800&v=beta&t=SryvjaO1m508uJ9cW9munv8dvIN-SEQCPYMvFFkwCrI)
+    <img src="https://media.licdn.com/dms/image/C4D03AQFY8jsEsibpsA/profile-displayphoto-shrink_200_200/0/1663050269654?e=1678924800&v=beta&t=SryvjaO1m508uJ9cW9munv8dvIN-SEQCPYMvFFkwCrI" alt="Matt Sandoval Balada"  style="border-radius:100px">
         <h1 align="center" >Matt Sandoval</h1>
         <h3 align="center">I'm a Full Stack Programmer student, welcome to my GitHub. You can browse through my repositories, I'm sure you'll find something interesting!😁</h3>
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5063&pause=1000&color=F79595&width=435&lines=Hello+World+my+name+is+Matt;Full+Stack+Developer+based+in+Bcn;Always+learning+new+things;Check+out+my+Linkedin+Profile)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5063&pause=1000&color=F79595&width=435&lines=Hello+World+my+name+is+Matt;Full+Stack+Developer+based+in+Bcn;Always+learning+new+things;Check+out+my+Linkedin+Profile" alt="Typing SVG" /></a>
 </kbd>
 
 ---
