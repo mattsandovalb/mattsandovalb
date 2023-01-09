@@ -3,6 +3,7 @@
         <h1 align="center" >Matt Sandoval</h1>
         <h3 align="center">I'm a Full Stack Programmer student, welcome to my GitHub. You can browse through my repositories, I'm sure you'll find something interesting!😁</h3>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&color=F79595&width=435&lines=Hello+World+my+name+is+Matt;Full+Stack+Developer+based+in+Bcn;Always+learning+new+things;Check+out+my+Linkedin+Profile" alt="Typing SVG" /></a>
+    
 </kbd>
 
 ---
