@@ -1,5 +1,5 @@
 <kbd id="header" align="center">
-    ![Avatar] (https://media.licdn.com/dms/image/C4D03AQFY8jsEsibpsA/profile-displayphoto-shrink_200_200/0/1663050269654?e=1678924800&v=beta&t=SryvjaO1m508uJ9cW9munv8dvIN-SEQCPYMvFFkwCrI) 
+    <img src="https://media.licdn.com/dms/image/C4D03AQFY8jsEsibpsA/profile-displayphoto-shrink_200_200/0/1663050269654?e=1678924800&v=beta&t=SryvjaO1m508uJ9cW9munv8dvIN-SEQCPYMvFFkwCrI" alt="Matt Sandoval Balada"  style="border-radius:50%">
         <h1 align="center" >Matt Sandoval</h1>
         <h3 align="center">I'm a Full Stack Programmer student, welcome to my GitHub. You can browse through my repositories, I'm sure you'll find something interesting!😁</h3>
 </kbd>
