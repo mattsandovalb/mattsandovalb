@@ -11,8 +11,8 @@
 
 # About Me :
 - 🔭 I’m currently working on my Porfolio.
-- 🌱 I’m currently learning **PHP, React.js, Larabel and TypeScript**.
 - 📫 How to reach me: **mateusandovalb@gmail.com**.
+- 🌱 I’m currently learning **PHP, React.js, Larabel and TypeScript**.
 - 💻 I'm open to work! Contact me! 
 
 <div>
