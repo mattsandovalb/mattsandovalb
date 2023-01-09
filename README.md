@@ -24,7 +24,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt=""  width="40" height="40">
         </div>
 
-        <div align="center">
+        <div >
             <h4>Back-End:</h4>
             <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt=""  width="40" height="40">
             <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt=""  width="40" height="40">
