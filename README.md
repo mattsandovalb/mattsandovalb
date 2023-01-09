@@ -15,7 +15,7 @@
 
 
 <div align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mattsandovalb&theme=dark&hide_border=true)](https://git.io/streak-stats)
+    ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mattsandovalb&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 
