@@ -5,8 +5,6 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79595&width=435&lines=console.log('Hello+World+my+name+is+Matt%22);Full+Stack+Developer+based+in+Barcelona;Always+learning+new+things;Check+out+my+Linkedin+Profile" alt="Typing SVG" /></a>       
     </div>
         <div>
-            
-    </div>
         <h3 align="center">I'm a Full Stack Programmer student, welcome to my GitHub. You can browse through my repositories, I'm sure you'll find something interesting!😁</h3>
 </div>
 
