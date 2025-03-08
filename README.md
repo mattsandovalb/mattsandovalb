@@ -10,10 +10,9 @@
 ---
 
 # About Me :
-- 🔭 I’m currently working on my Porfolio.
-- 📫 How to reach me: **mateusandovalb@gmail.com**.
-- 🌱 I’m currently learning **PHP, React.js, Larabel and TypeScript**.
-- 💻 I'm open to work! Contact me! 
+- 🔭 I’m currently working on my personal product.
+- 📫 How to reach me: **msandovalbalada#gmail.com**
+- 💻 Full Stack Developer in Tekman 
 
 <div>
     <h3>Lenguages and Skills:</h3>
