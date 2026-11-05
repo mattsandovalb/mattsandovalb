@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <h1>Hi, I'm Matt 👋</h1>
   <h3>Full-Stack Developer &amp; Founder — based in Barcelona</h3>
 
@@ -15,25 +15,27 @@
 - ⚙️ I build products end to end: **Symfony** on the backend, **Next.js** on the frontend.
 - 🤖 Lately working deep in **AI agents** and LLM-powered tooling.
 - 🌍 Based in Barcelona · I speak Spanish, Catalan &amp; English.
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/mateu-sandoval-balada)** or at **msandovalbalada@gmail.com**
 
 ---
 
 ### 🛠️ Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,php,symfony,laravel,postgres,mysql,docker,aws,git&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,php,symfony,postgres,docker,aws&perline=10" alt="Tech stack" />
 </p>
 
 ---
 
-### 📊 GitHub stats
+### 📫 Reach me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateu-sandoval-balada"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:msandovalbalada@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://costum.cloud"><img src="https://img.shields.io/badge/Costum-F79595?style=flat&logo=icloud&logoColor=white" alt="Costum" /></a>
+</p>
+
+<br />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mattsandovalb&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Matt's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsandovalb&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mattsandovalb&hide_border=true&theme=radical" alt="GitHub streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mattsandovalb&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=transparent" alt="GitHub stats" />
 </div>
