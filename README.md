@@ -33,9 +33,3 @@
   <a href="mailto:msandovalbalada@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://costum.cloud"><img src="https://img.shields.io/badge/Costum-F79595?style=flat&logo=icloud&logoColor=white" alt="Costum" /></a>
 </p>
-
-<br />
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mattsandovalb&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=transparent" alt="GitHub stats" />
-</div>
